@@ -1,8 +1,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.kidoncio.vercel.app/api/top-langs/?username=Kidoncio&layout=compact&theme=radical" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.kidoncio.vercel.app/api?username=Kidoncio&hide=prs&show_icons=true&theme=radical" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.kidoncio.vercel.app/api/top-langs/?username=Kidoncio&layout=compact&theme=radical" /></td>
     </tr>   
   </table>
 </center>
