@@ -1,7 +1,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="450px" align="left" src="https://github-readme-stats.kidoncio.vercel.app/api/top-langs/?username=Kidoncio&layout=compact&theme=radical" /></td>
+        <td><img align="left" src="https://github-readme-stats.kidoncio.vercel.app/api/top-langs/?username=Kidoncio&layout=compact&theme=radical" /></td>
     </tr>   
   </table>
 </center>
