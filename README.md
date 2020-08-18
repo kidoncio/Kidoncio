@@ -1,10 +1,4 @@
-<center>
-  <table>
-    <tr>
-        <td><img align="left" src="https://github-readme-stats.kidoncio.vercel.app/api/top-langs/?username=Kidoncio&layout=compact&theme=radical" /></td>
-    </tr>   
-  </table>
-</center>
+<img src="https://github-readme-stats.kidoncio.vercel.app/api/top-langs/?username=Kidoncio&layout=compact&theme=radical" />
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
