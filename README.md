@@ -1,8 +1,8 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🏢 I'm currently working full-time at **[Winker](https://www.winker.com.br/)**
-- ⚙️ I use daily: `.ts`, `.tsx`, `.js`
-- 🌱 Learning more about and studying: **React, UI Design**
+- 🏢 I'm currently working full-time at **[DreamShaper](https://dreamshaper.com/)**
+- ⚙️ I use daily: `.ts`, `.js`
+- 🌱 Learning more about and studying: **Laravel, Vue, UI Design**
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/kidoncio/">LinkedIn</a>
