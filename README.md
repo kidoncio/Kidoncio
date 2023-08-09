@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 - 🏢 I'm currently working full-time at **[DreamShaper](https://dreamshaper.com/)**
-- ⚙️ I use daily: `.ts`, `.js`
+- ⚙️ I use daily: `.ts`, `.vue`
 - 🌱 Learning more about and studying: **Nuxt, Vue, UI Design**
 
 #### Find me around the web 🌎:
