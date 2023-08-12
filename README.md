@@ -15,7 +15,7 @@ I'm a full-stack developer with a strong focus on frontend. I craft interactive 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kidoncio)
-[![Spotify](https://img.shields.io/badge/spotify-Spotify?style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/user/s48wfz58u7rzmj8onzuzy3c76?si=680408d327294716)
+[![Spotify](https://img.shields.io/badge/spotify-Spotify?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/s48wfz58u7rzmj8onzuzy3c76?si=680408d327294716)
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=kidoncio&theme=neon&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidoncio&theme=neon&hide_border=false"  width="400px" />
