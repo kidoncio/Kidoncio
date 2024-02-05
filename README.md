@@ -1,12 +1,10 @@
 # 👋 Hi there
 
-I'm Lucas do Nascimento, a Tech Lead at DreamShaper with 6+ years of experience. <br />
-Passionate about tech and innovation, I've driven exciting projects across diverse technologies. <br />
-Let's shape the future together.
+I'm Lucas do Nascimento, a passionate software developer and tech enthusiast currently thriving as a Front-end Technical Lead at DreamShaper. With 7+ years of experience under my belt, I've tackled diverse and exciting projects, constantly expanding my technological horizons.
 
 # 🚀 Expertise
 
-I'm a full-stack developer with a strong focus on frontend. I craft interactive and user-friendly web apps, backed by extensive expertise in HTML, CSS, TypeScript, and PHP. Proficient in popular frameworks and libraries including Vue, React, Angular, Laravel, and Nest. </br> 
+I'm fueled by a desire to create exceptional products. As a front-end web development specialist, I leverage modern frameworks and best-practice design patterns to deliver seamless user experiences. My leadership experience encompasses shaping system guidelines, upholding performance standards, and guiding teams with strategic vision to ensure efficient project execution. </br> 
 
 # 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NuxtJS](https://img.shields.io/badge/Nuxt-nuxt?style=for-the-badge&logo=nuxt.js&logoColor=%2300dc82&labelColor=black&color=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23007ACC.svg?style=for-the-badge&logo=angular&logoColor=white&color=%23DD0031) ![NestJS](https://img.shields.io/badge/Nest-label?style=for-the-badge&logo=nestjs&logoColor=white&color=%23E0234E
@@ -16,10 +14,3 @@ I'm a full-stack developer with a strong focus on frontend. I craft interactive 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kidoncio)
 [![Spotify](https://img.shields.io/badge/spotify-Spotify?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/s48wfz58u7rzmj8onzuzy3c76?si=680408d327294716)
-
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=kidoncio&theme=neon&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidoncio&theme=neon&hide_border=false"  width="400px" />
-
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=kidoncio&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
